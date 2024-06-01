@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c86026dfe67c92e43806e9d8b71464b9, type: 3}
+  m_Name: ItemIcons
+  m_EditorClassIdentifier: Assembly-CSharp::ItemIcons
+  ItemDatas:
+  - ItemType: 1
+    Sprite: {fileID: 21300000, guid: 52992fe8a75d6664a829070416a2cb40, type: 3}
+  - ItemType: 256
+    Sprite: {fileID: 21300000, guid: c2871babe37070948a81f6ded64377b6, type: 3}
+  - ItemType: 512
+    Sprite: {fileID: 21300000, guid: 29593151431122e45afb44e0cfd22bc9, type: 3}
+  - ItemType: 513
+    Sprite: {fileID: 21300000, guid: 0061f8ff8c92502499b99b01dd68d045, type: 3}
+  - ItemType: 514
+    Sprite: {fileID: 21300000, guid: 0061f8ff8c92502499b99b01dd68d045, type: 3}
+  - ItemType: 515
+    Sprite: {fileID: 21300000, guid: 5d5ed583c71f13d4ba9f97c72202f560, type: 3}
+  - ItemType: 516
+    Sprite: {fileID: 21300000, guid: 533649b4416d55f419ac6698f64765a6, type: 3}
